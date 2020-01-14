@@ -1,0 +1,86 @@
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\bin\Debug\Accord.dll.config
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.exe.config
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.exe
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.pdb
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\bin\Debug\Accord.dll
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\bin\Debug\Accord.Genetic.dll
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.Core.dll
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.dll
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\bin\Debug\Accord.xml
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\bin\Debug\Accord.Genetic.xml
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.xml
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.Core.xml
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.exe
+C:\Users\Carlos Moraes\source\repos\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.pdb
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\bin\Debug\Accord.dll.config
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.exe.config
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.exe
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.pdb
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\bin\Debug\Accord.dll
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\bin\Debug\Accord.Genetic.dll
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.Core.dll
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.dll
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\bin\Debug\Accord.xml
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\bin\Debug\Accord.Genetic.xml
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.xml
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.Core.xml
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.csprojResolveAssemblyReference.cache
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.exe
+C:\Users\olive\OneDrive\Documentos\TFG\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.pdb
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\bin\Debug\Accord.dll.config
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.exe.config
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.exe
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.pdb
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\bin\Debug\Accord.dll
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\bin\Debug\Accord.Genetic.dll
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.Core.dll
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.dll
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\bin\Debug\MathNet.Numerics.dll
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\bin\Debug\Accord.xml
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\bin\Debug\Accord.Genetic.xml
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.xml
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.Core.xml
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\bin\Debug\MathNet.Numerics.xml
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.exe
+C:\Users\Carlos Moraes\Documents\Visual Studio 2017\Projects\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.pdb
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\bin\Debug\Accord.dll.config
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.exe.config
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.exe
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.pdb
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\bin\Debug\Accord.dll
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\bin\Debug\Accord.Genetic.dll
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.Core.dll
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.dll
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\bin\Debug\MathNet.Numerics.dll
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\bin\Debug\Accord.xml
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\bin\Debug\Accord.Genetic.xml
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.xml
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.Core.xml
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\bin\Debug\MathNet.Numerics.xml
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.csprojResolveAssemblyReference.cache
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.exe
+C:\Users\olive\OneDrive\Documentos\TFG\1\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.pdb
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\bin\Debug\Accord.dll.config
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.exe.config
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.exe
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\bin\Debug\GeneticPetri.pdb
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\bin\Debug\Accord.dll
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\bin\Debug\Accord.Genetic.dll
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.Core.dll
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.dll
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\bin\Debug\MathNet.Numerics.dll
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\bin\Debug\Accord.xml
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\bin\Debug\Accord.Genetic.xml
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.xml
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\bin\Debug\Accord.Math.Core.xml
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\bin\Debug\MathNet.Numerics.xml
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.csprojResolveAssemblyReference.cache
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.exe
+C:\Users\olive\OneDrive\Documentos\TFG\1\alterações\GeneticPetri\GeneticPetri\obj\Debug\GeneticPetri.pdb
